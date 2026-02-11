@@ -1,3 +1,7 @@
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+
 # 🛡️ Aithena – Women Safety Application Prototype
 
 Aithena is a modern women safety application prototype built to demonstrate how real-time safety systems should function in today’s digital ecosystem.  
